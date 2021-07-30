@@ -1,0 +1,12 @@
+{
+    "name": "chishfoxcat/microsoft-tts",
+    "version": "1.0.0",
+    "license": "GNU Affero General Public License v3.0",
+    "home": "https://github.com/ChishFoxcat/Microsoft-TTS",
+    "autoload": {
+      "psr-4": {
+        "tts\\": "src\\tts"
+      }
+    }
+  }
+  
